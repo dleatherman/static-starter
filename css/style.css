@@ -187,6 +187,7 @@ button {
 
 .hero__outer {
    border-radius: var(--border-radius);
+   margin-bottom: 2rem;
    padding: 1rem 2rem;
 }
 
